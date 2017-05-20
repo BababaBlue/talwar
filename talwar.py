@@ -145,6 +145,7 @@ def load_scan():
 		print '[!]Target not set'
 		print '[!]Use \'target\' to set target'
 
+
 # Default Commands
 command = { 'help' : help,
            'exit' : exit,

@@ -23,3 +23,5 @@ def config_load(file_name):
 		print '[!]Error: Unable to find the file'
 		print '[#]Make sure to put your scan in \'Scans\' folder'
 		return False,0
+
+
